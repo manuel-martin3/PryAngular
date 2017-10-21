@@ -1,0 +1,4 @@
+inicia servidor para angular
+tutorial=> https://www.youtube.com/watch?v=Sx_2dOYOtes
+servidor=> localhost:4200
+comando=> ng serve
